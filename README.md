@@ -11,10 +11,12 @@
 2) 기술적 세무 목표
 
 -사용 모듈 및 연결 모식도
+
 ![image](https://user-images.githubusercontent.com/94096054/144020830-98f77f12-f51d-4e8a-be1c-1b0e543e0e34.png)
 
 
 -App UI
+
 ![image](https://user-images.githubusercontent.com/94096054/144020904-35c4f60b-3b4d-4e1d-87da-5a8ade9d26d5.png)
 
 
@@ -24,5 +26,6 @@
 
 
 -미니어처 모델
+
 ![image](https://user-images.githubusercontent.com/94096054/144021248-b63b575d-f4a3-4c81-8c1b-44d2019eb08e.png)
 
